@@ -19,5 +19,8 @@ git clone https://github.com/XAndroid1/Hack-Picture
 cd Hack-Picture
 ```
 ```
+chmod +x Hack-photse.py
+```
+```
 python Hack-photse.py
 ```
