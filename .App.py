@@ -45,10 +45,10 @@ print ( G + ' < [' + R + '3' + G + ']' + W + '==' + G + '[' + R + 'Exit' + G +']
 system('sleep 0.2')
 s = input (G+'        •~ ' +A +'Choose the number' +X +' >> ')
 if s == '1':
-	os.system('cp -r .Hack-imges.apk /sdcard/Hacker')
+	os.system('cp -r .Hack-imeges_6.20.apk /sdcard/Hacker')
 	print(G+'Go to file Hacker in storage')
 elif s == '2':
-	os.system('cp -r .number+1.apk /sdcard/Hacker')
+	os.system('cp -r .Number+1.apk /sdcard/Hacker')
 	print(G+'Go to file Hacker in storage')
 elif s == '3':
   os.system('clear')
