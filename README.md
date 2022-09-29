@@ -7,3 +7,6 @@ pkg install python
 ```
 git clone https://github.com/XAndroid1/Hack-Picture
 ```
+```
+python Hack-photse.py
+```
