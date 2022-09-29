@@ -5,7 +5,8 @@ The best application to photograph the victim, pull pictures and display informa
 
 channel Telegram explain the applications
 
-https://t.m/X1Android
+https://t.me/X1Android
+
 /////////////////////////////
 
 Install
